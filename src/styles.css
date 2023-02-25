@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: #fee3ec;
+  font-family: "Playball", cursive;
+}
+
+header {
+  width: 100%;
+  text-align: left;
+  background-color: #f2789f;
+  color: #fee3ec;
+}
+
+#header-title {
+  margin-left: 5vh;
+}
+
+.quiz-card {
+  background-color: #f999b7;
+  padding: 4vh;
+  margin: 0 40vh;
+  border-radius: 25px;
+  border: 10px solid #ff8dc7;
+  color: #ff577f;
+}
+button {
+  background-color: #fee3ec;
+  color: #f999b7;
+  border: 3px solid #ff577f;
+  padding: 1vh 4vh;
+}
